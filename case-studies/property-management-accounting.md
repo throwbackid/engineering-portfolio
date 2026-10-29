@@ -56,4 +56,4 @@ Unit, integration, end-to-end, database, concurrency and frontend test files are
 
 User and role management are incomplete, as is production identity integration. The default accounting identity adapter rejects requests; the alternate adapter is scoped to development and tests. Existing guards do not establish production-ready authentication, complete role-based access control or complete company isolation. Deployment and live bank connectivity are unverified; the implemented statement inputs are manual and CSV.
 
-A future demonstration candidate is a synthetic property → agreement → billing → receipt walkthrough in a disposable local environment. It has not been executed. No screenshots are included.
+A future demonstration candidate is a synthetic property → agreement → billing → receipt walkthrough in a disposable local environment. It has not been executed.

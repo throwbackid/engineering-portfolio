@@ -58,7 +58,7 @@ flowchart TD
 
 These descriptions are based on source inspection. Test infrastructure and scenarios are present for duplicate checkout, payment races, pickup concurrency, media finalization and concurrent article edits. CI defines checks and a selected browser suite. The application and tests were not run for this portfolio; no passing count or coverage claim is made.
 
-Deployment and live payment/storage operation remain unverified. Payment reconciliation scheduling was not established by the inspected scheduler configuration. No screenshots are included.
+Deployment and live payment/storage operation remain unverified. Payment reconciliation scheduling was not established by the inspected scheduler configuration.
 
 ## Potential walkthrough and next validation
 

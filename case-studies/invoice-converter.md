@@ -52,4 +52,4 @@ The repository contains architecture and contract tests, unit and integration te
 
 The active extraction path uses one configured vision endpoint. Standalone OCR/reconstruction work remains planning or experimental material; automatic provider failover was not found in the inspected implementation.
 
-A proposed walkthrough uses a synthetic PDF and mocked extraction response: select pages, inspect an incomplete source result, correct the draft, revalidate and download review JSON. Synthetic generation and network-free demo mechanisms provide a capture path. This walkthrough has not been executed; any future capture would be labeled synthetic and mocked. No screenshots are included because none have been cleared for publication.
+A proposed walkthrough uses a synthetic PDF and mocked extraction response: select pages, inspect an incomplete source result, correct the draft, revalidate and download review JSON. Synthetic generation and network-free demo mechanisms support this workflow. This walkthrough has not been executed.

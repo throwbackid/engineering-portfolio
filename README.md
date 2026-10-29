@@ -23,8 +23,6 @@ Three ongoing software projects spanning full-stack commerce, property and accou
 - **Traceability:** retaining order snapshots, audit events, original document observations and correction provenance.
 - **Testing across layers:** unit, integration, database, concurrency and UI test scenarios in the private project repositories.
 
-## Evidence and scope
+## About These Projects
 
-The case studies reflect source inspection as of **29 October 2026**. “Implemented” describes code present in the inspected projects. Tests and evaluation tooling are identified where present; their current outcomes, live integrations and deployments have not been verified for this portfolio.
-
-This repository contains documentation and architecture diagrams. Private source code, credentials, business records and proprietary rules remain outside it. Screenshots will be added only after review using synthetic data. No unmeasured business improvements or model-performance results are claimed.
+These case studies document selected technical work from ongoing private projects. They focus on implemented features, system architecture, and engineering decisions. Source code and confidential business information are not publicly available.

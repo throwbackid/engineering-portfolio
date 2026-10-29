@@ -1,5 +1,5 @@
 # Keep this documentation-only repository limited to reviewed public files.
-# Add each reviewed image path explicitly when screenshots are ready.
+# Keep local notes and private project assets outside the tracked file list.
 *
 !/.gitignore
 !/README.md
