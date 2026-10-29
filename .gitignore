@@ -1,0 +1,9 @@
+# Keep this documentation-only repository limited to reviewed public files.
+# Add each reviewed image path explicitly when screenshots are ready.
+*
+!/.gitignore
+!/README.md
+!/case-studies/
+!/case-studies/luca.md
+!/case-studies/property-management-accounting.md
+!/case-studies/invoice-converter.md
